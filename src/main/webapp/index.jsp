@@ -4,5 +4,5 @@
 <%
     MakeFriends makeFriends=new MakeFriends();
     out.println(makeFriends.makeFriends("wanglipeng"));
-    out.println("githubserver edit!!");
+    out.println("githubserver edit!!!");
 %>
