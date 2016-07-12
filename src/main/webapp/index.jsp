@@ -5,4 +5,5 @@
     MakeFriends makeFriends=new MakeFriends();
     out.println(makeFriends.makeFriends("wanglipeng"));
     out.println("local edit!!");
+    out.println("local edit2!!");
 %>
