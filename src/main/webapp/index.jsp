@@ -8,4 +8,5 @@
     out.println("local edit2!!");
     out.println("githubserver edit!!!");
     out.println("githubserver edit2!!!");
+    out.println("测试 github 服务器！");
 %>
