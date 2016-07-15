@@ -10,4 +10,5 @@
     out.println("githubserver edit2!!!");
     out.println("测试 github 服务器！");
     out.println("向github 服务器上传测试文件！");
+    out.println("maven git js jquery ajax bootstrap!!");
 %>
